@@ -2,6 +2,7 @@
   width: 50%;
   border: solid black;
   border-width: 5px;
+  padding: 5px;
   margin: 10px;
 }
 img {
@@ -11,4 +12,7 @@ img {
 .section {
   font-weight: bold;
   font-style: italic;
+}
+li {
+  background-color: aqua;
 }
