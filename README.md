@@ -16,6 +16,8 @@ This web page functions as an introductory point and guide to the projects found
 
 Open "index.html" file in browser of choice to view the page.
 
+[Click here](https://maxbetich.github.io/my-portfolio/) to view the page on Github Pages.
+
 ## Known Bugs
 
 None
